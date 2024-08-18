@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
+
         var dog = 8.0;
         var cat = 3.6;
         var paper = 763789;
@@ -67,5 +68,11 @@ public class Main {
         var worker = allHours / employeeIsWorking + 94;
         var watch = worker * 8;
         System.out.println( "Если в компании работает " + worker + " человек, то всего " + watch + " часов работы может быть поделено между сотрудниками" );
+
+        System.out.println("Привет мир!"); 
+        System.out.println("Теперь все так!");
+        System.out.println("Hello world!");
+
+
     }
 }
